@@ -1,0 +1,22 @@
+---
+layout: posts
+---
+
+<section class="blog">
+  <section class="posts">
+    {% for post in site.posts %}
+    <article class="post">
+      <a href="{{ post.url }}">
+        <h1 class="name">
+          {{ post.title }}
+          <time>{{ post.date | date_to_string }}</time>
+        </h1>
+      </a>
+
+      <p class="body">
+      {{ post.content }}
+      </p>
+    </article>
+    {% endfor %}
+  </section>
+</section>
