@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "MAGENTA x CASTE outtakes 1 of 2"
 date: 2013-10-15 19:07:39
+layout: post
 ---
 
 <p>Check out part 1 of some outtake photos in <a href="http://www.youtube.com/watch?v=TqQYH3FNAUM">Bordeaux</a> during out recent trip to <a href="http://www.youtube.com/watch?v=TqQYH3FNAUM">France</a> for a <a href="http://www.magentaskateboards.com">Magenta</a> collaboration coming out in the upcoming months. <img src="http://media.tumblr.com/e741a9b21fb17e7bd5d10e6fdbb3ee87/tumblr_inline_muq4w031621rf4blg.jpg"/></p>

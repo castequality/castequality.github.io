@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "The Jefferson Light and The Choice Blended Tee"
 date: 2014-07-04 12:56:00
+layout: post
 ---
 
 <p>Our most recent video&nbsp;focuses&nbsp;on the construction of our headwear and features the new&nbsp;<a href="http://store.castequality.com/product/jefferson-light-beige">Jefferson Light</a> 6 panel cap and&nbsp;<a href="http://store.castequality.com/product/the-choice-blended-teex">Choice Blended Tee</a>. Check out some stills below while we shot <a href="https://vimeo.com/99653555">Installment 05</a> and shop these piece <a href="http://store.castequality.com">here</a>.&nbsp;</p>

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Luke Koch X Homebase610"
 date: 2013-08-01 18:43:39
+layout: post
 ---
 
 <p>Luke Koch just dropped an awesome video part for one of CASTE&#8217;s <strong><a href="http://www.castequality.com/#/stockists">stockists</a></strong>, <strong><a href="http://homebase610.com/">Homebase</a></strong>, in Allentown, Pennsylvania. Filmed by <strong><a href="http://5boronyc.com/">5boronyc</a></strong>'s, Tombo Colabraro. </p>

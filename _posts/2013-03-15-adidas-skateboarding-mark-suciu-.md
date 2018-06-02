@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "ADIDAS SKATEBOARDING: MARK SUCIU"
 date: 2013-03-15 05:55:00
+layout: post
 ---
 
 <p><iframe frameborder="0" height="295" src="http://www.youtube.com/embed/redN-JcM0Fc?rel=0" width="524"></iframe></p>

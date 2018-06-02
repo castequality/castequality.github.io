@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "INSTALLMENT 01"
 date: 2013-08-27 14:31:00
+layout: post
 ---
 
 <p class="p1">Linked below is the first installment to a series of shorts we here at <strong>CASTE</strong> will be releasing throughout the year. As we grow as a brand, creativity, self sufficiency and quality, in relation to our media, content and transcending products are elements we hold in the highest of regards.</p>

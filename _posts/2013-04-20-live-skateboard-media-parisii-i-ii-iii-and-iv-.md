@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "LIVE SKATEBOARD MEDIA: PARISII I, II, III, AND IV"
 date: 2013-04-20 23:35:00
+layout: post
 ---
 
 <p><iframe frameborder="0" height="393" src="http://player.vimeo.com/video/64450363?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="524"></iframe></p>

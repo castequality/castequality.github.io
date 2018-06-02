@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "LEO VALLS KINGPIN INTERVIEW"
 date: 2013-04-29 03:58:00
+layout: post
 ---
 
 <p><a href="http://kingpin.mpora.com/featured-content/carving-a-niche-leo-valls-effect-from-issue-111.html"><img alt="image" src="http://media.tumblr.com/ac5a969e1e32299874370760f572ea7c/tumblr_inline_mm00b1O1Mn1qz4rgp.jpg"/></a></p>

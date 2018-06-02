@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "CASTE x Zachary Armstrong x Paradigm Magazine and The Elder Woven"
 date: 2014-02-21 23:56:00
+layout: post
 ---
 
 <p>In the early fall of 2013, we had the pleasure of taking on a project with Ohio-born artist and friend <a href="http://zacharyarmstrong.co">Zachary Armstrong</a> in collaboration with&nbsp;<a href="http://www.paradigmmagazine.com">PARADIGM</a> Magazine. With several upcoming shows set for this year, our newest short, shot over the span of only a couple weeks, helps shed some light on what drives, inspires and influences Zachary, working from his Dayton studio.</p>

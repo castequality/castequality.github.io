@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "MAGENTA SKATEBOARDS: SOLEIL LEVANT PREMIERE"
 date: 2013-05-07 21:57:00
+layout: post
 ---
 
 <p><img alt="image" src="http://media.tumblr.com/f2af27adcd97031a3903c6f00e111726/tumblr_inline_mmg7g637bz1qz4rgp.jpg"/></p>

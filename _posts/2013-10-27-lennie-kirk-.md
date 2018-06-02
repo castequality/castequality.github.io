@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Lennie Kirk"
 date: 2013-10-27 15:58:55
+layout: post
 ---
 
 <p>A breath of fresh air. </p>

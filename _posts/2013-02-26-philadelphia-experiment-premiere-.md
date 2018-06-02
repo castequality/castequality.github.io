@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "PHILADELPHIA EXPERIMENT PREMIERE"
 date: 2013-02-26 01:18:00
+layout: post
 ---
 
 <p><img alt="image" src="http://media.tumblr.com/0cccf3a85c286efaa76ace4a8fc55755/tumblr_inline_miszktsB1p1qz4rgp.jpg"/></p>

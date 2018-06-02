@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "HOMEGROWN SUMMER 2013"
 date: 2013-09-17 16:50:00
+layout: post
 ---
 
 <p>Our homies and CASTE stockist, <strong><a href="http://homegrownskateshop.com/">Homegrown Skateshop</a></strong>, up in Ithaca, just released a sick summer video with some amazing spots. Check it out!</p>

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "A Decade of Photos from South Bank"
 date: 2013-08-13 13:14:24
+layout: post
 ---
 
 <p>Vice just posted an interesting photo article on South Bank. Check out a few of our favorites below and click <a href="http://www.vice.com/read/here-are-some-photos-from-southbank-to-celebrate-its-victory"><strong>here</strong></a> to view the piece in its entirety. <a href="http://www.llsb.com/"><strong>Long Live South Bank </strong></a></p>

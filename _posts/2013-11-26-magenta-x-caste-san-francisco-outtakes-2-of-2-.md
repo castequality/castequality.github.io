@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Magenta x CASTE San Francisco outtakes 2 of 2"
 date: 2013-11-26 14:15:53
+layout: post
 ---
 
 <p>Here is part 2 outtake photos from last weeks trip to <a href="http://www.youtube.com/watch?v=n32-FRbLeI4">San Francisco</a> for the <a href="http://www.magentaskateboards.com/">Magenta</a> collaboration.</p>

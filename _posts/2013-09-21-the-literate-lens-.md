@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "The Literate Lens"
 date: 2013-09-21 23:48:57
+layout: post
 ---
 
 <p></p>

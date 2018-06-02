@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "NEW PRODUCT DROP..."
 date: 2013-05-08 02:39:00
+layout: post
 ---
 
 <p>The Allen Cord Hat is now available in our <strong><a href="http://store.castequality.com">store</a></strong>, along with a bunch of other new products. Check it out.</p>

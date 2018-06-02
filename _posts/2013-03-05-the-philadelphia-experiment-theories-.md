@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "THE PHILADELPHIA EXPERIMENT / THEORIES"
 date: 2013-03-05 00:01:00
+layout: post
 ---
 
 <p><a href="http://www.castequality.com/#/project"><img src="http://media.tumblr.com/aa1ab6d98570b11924328be588545abd/tumblr_inline_mjou3vkWdz1qz4rgp.jpg"/></a></p>

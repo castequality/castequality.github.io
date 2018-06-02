@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "CASTE QUALITY x PARADIGM MAGAZINE"
 date: 2013-04-29 14:58:00
+layout: post
 ---
 
 <p><a href="http://paradigmmagazine.com/site/2013/04/29/paradigm-magazine-caste-quality-intervew/"><strong><img alt="image" src="http://media.tumblr.com/53648602981bfcfc7b8166e69a3f715d/tumblr_inline_mm0uwrZ3IJ1qz4rgp.png"/></strong></a></p>

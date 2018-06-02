@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "CASTE x Magenta"
 date: 2013-12-07 23:56:00
+layout: post
 ---
 
 <p><a href="http://www.magentaskateboards.com"><strong>Coming 2014</strong></a>.<iframe allowfullscreen="" frameborder="0" height="393" mozallowfullscreen="" src="//player.vimeo.com/video/81305762" webkitallowfullscreen="" width="524"></iframe></p>

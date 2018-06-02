@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "MAGENTA x CASTE outtakes 2 of 2"
 date: 2013-11-06 20:31:00
+layout: post
 ---
 
 <p>Here is the second portion of a short series of photos from our recent trip to France in collaboration with Magenta Skateboards. <img alt="image" src="http://media.tumblr.com/dee9fcd7e48e6daf73bd4cd5fd7a447c/tumblr_inline_mvuzlutv6h1rf4blg.jpg"/></p>

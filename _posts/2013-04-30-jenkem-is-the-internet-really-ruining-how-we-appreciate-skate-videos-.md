@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "JENKEM - IS THE INTERNET REALLY RUINING HOW WE APPRECIATE SKATE VIDEOS?"
 date: 2013-04-30 18:24:00
+layout: post
 ---
 
 <p><img alt="image" src="http://media.tumblr.com/ae3da499a1d13e4d730fd34f510104c4/tumblr_inline_mm2yt8bmCV1qz4rgp.jpg"/></p>

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "CASTE x Magenta Installment 03"
 date: 2014-01-07 10:35:00
+layout: post
 ---
 
 <p>Check out Installment 03, the 2nd addition in a 3 part series of trailers leading up to our soon to be released full-length collaborative video project with <a href="http://www.magentaskateboards.com">Magenta</a>.</p>

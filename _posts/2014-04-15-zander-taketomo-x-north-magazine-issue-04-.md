@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Zander Taketomo x North Magazine Issue 04"
 date: 2014-04-15 08:56:00
+layout: post
 ---
 
 <p>Scotland&#39;s <a href="http://www.northskatemag.com/">North Magazine</a>, created by Graham Tait, just released their forth issue with a feature focusing on some words and photography by <a href="https://vimeo.com/84338572">Zander Taketomo</a>. Click the first page below to check out the whole interview.</p>

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Complex Magazine x CASTE"
 date: 2014-03-30 12:45:00
+layout: post
 ---
 
 <p><a href="http://www.complex.com">Complex Magazine</a> just posted some kind words on our newest project.</p>

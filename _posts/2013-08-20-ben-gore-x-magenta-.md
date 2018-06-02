@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Ben Gore x Magenta"
 date: 2013-08-20 17:20:17
+layout: post
 ---
 
 <p>Our homie Ben Gore just got the official induction into the <strong><a href="http://www.magentaskateboards.com">Magenta</a></strong> tribe. We&#8217;re super stoked for this long awaited announcement along with his incredible introduction video. Check it out below.</p>

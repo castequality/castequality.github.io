@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Jenkem Mag x Marc Johnson"
 date: 2013-07-30 03:07:42
+layout: post
 ---
 
 <p>This <strong>Jenkem Mag</strong> interview has been up for a bit, but for those who haven&#8217;t read it yet, well&#8230;read it. </p>

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Paradigm Magazine  X Alex Olson"
 date: 2013-08-25 18:13:06
+layout: post
 ---
 
 <p>Our good friends over at Paradigm just released an interview with some insight from Alex Olson check it out <strong><a href="http://paradigmmagazine.com/2013/08/13/paradigm-magazine-alex-olson-interview/">here</a></strong>. </p>

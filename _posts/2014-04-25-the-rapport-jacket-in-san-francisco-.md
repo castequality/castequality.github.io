@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "The Rapport Jacket in San Francisco"
 date: 2014-04-25 12:26:00
+layout: post
 ---
 
 <p>One of our newest pieces, <a href="http://store.castequality.com/product/the-rapport-jacket"><strong>The Rapport Jacket</strong></a> can be seen below in a few shots taken by <a href="http://www.magentaskateboards.com/team/ben-gore">Ben Gore</a>. Shop the Rapport and other pieces from CASTE in our webstore <a href="http://store.castequality.com">HERE</a>.&nbsp;</p>

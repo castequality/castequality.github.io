@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "PARADIGM VOL. I – GENESIS x Zachary Armstrong Editorial by Zander Taketomo"
 date: 2014-06-03 14:30:00
+layout: post
 ---
 
 <p>We recently had the pleasure of attending the release party for the Paradigm Vol.1 book release in New York a couple weeks back.&nbsp;</p>

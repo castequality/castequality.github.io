@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Paradigm Tote Bag"
 date: 2014-06-03 15:03:00
+layout: post
 ---
 
 <p>In accordance with our recent post, we&#39;re pleased to annouce our&nbsp;special limited numbered tote bag is now available in our webshop <a href="http://store.castequality.com/product/paradigm-tote-bag">here</a>.&nbsp;</p>

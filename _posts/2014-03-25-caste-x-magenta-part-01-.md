@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "CASTE x Magenta Part 01"
 date: 2014-03-25 23:56:00
+layout: post
 ---
 
 <p><iframe allowfullscreen="" frameborder="0" height="393" mozallowfullscreen="" src="//player.vimeo.com/video/90116548" webkitallowfullscreen="" width="524"></iframe></p>

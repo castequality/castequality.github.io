@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "CASTE x Live Skateboard Media"
 date: 2013-06-02 15:47:00
+layout: post
 ---
 
 <p><a href="http://liveskateboardmedia.com/fr/article/meeting-caste-quality"><img alt="image" src="http://media.tumblr.com/b4733b335a39b3fe2f3799b237f9da6b/tumblr_inline_mnrvtvI2AH1qz4rgp.jpg"/></a></p>

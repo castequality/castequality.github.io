@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Back in Black"
 date: 2013-07-18 17:23:06
+layout: post
 ---
 
 <p>The Stamp Pocket Tee is back and available online in a limited size run. Visit our <a href="http://store.castequality.com/product/stamp-pocket-tee"><strong>shop</strong></a> or click below</p>

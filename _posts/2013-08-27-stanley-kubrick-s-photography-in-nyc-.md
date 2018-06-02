@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Stanley Kubrick's Photography in NYC"
 date: 2013-08-27 02:42:23
+layout: post
 ---
 
 <p>Here are some great photos taken by <strong><a href="http://en.wikipedia.org/wiki/Stanley_Kubrick">Stanley Kubrick</a></strong> in NYC while he worked for LOOK Magazine. As man of many talents, Kubrick not only pioneered modern film, but also was able to capture such strong moments in a single frame. (Photos courtesy of <a href="http://collections.mcny.org/C.aspx?VP3=CMS3&amp;VF=Home">MCNY</a> Collections)</p>

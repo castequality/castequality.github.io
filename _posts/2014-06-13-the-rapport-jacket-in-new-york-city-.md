@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "The Rapport Jacket in New York City"
 date: 2014-06-13 08:25:00
+layout: post
 ---
 
 <p>A recent editorial&nbsp;of one of&nbsp;our <strong><a href="http://www.magentaskateboards.com/">Magenta Skateboards</a></strong> collaborative pieces, <strong><a href="http://store.castequality.com/product/the-rapport-jacket">The Rapport Jacket</a></strong>, worn by Frenchmen <strong><a href="https://vimeo.com/83923996">Guillaume Guiaro</a></strong> in New York City. Shop the look and more <a href="http://store.castequality.com">HERE</a>. Photo : <strong><a href="http://www.zandertaketomo.com/">Zander Taketomo</a></strong></p>

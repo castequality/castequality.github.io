@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "The Arch Pullover"
 date: 2013-12-01 02:16:52
+layout: post
 ---
 
 <p>CASTE affiliate Ben Gore just sent us some great photos of Joe Staley wearing the new Arch Pullover out in San Francisco. </p>
