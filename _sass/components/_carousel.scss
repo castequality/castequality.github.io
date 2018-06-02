@@ -1,0 +1,17 @@
+[data-behavior*=carousel] {
+  position: relative;
+  overflow: hidden;
+}
+
+[data-behavior*=carousel] ul {
+  width: 10000em;
+  position: relative;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+[data-behavior*=carousel] li {
+  /* Required only for block elements like <li>'s */
+  float: left;
+}

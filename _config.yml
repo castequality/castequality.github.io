@@ -29,6 +29,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+collections:
+  projects:
+    output: true
+
 sass:
   style: compressed
 

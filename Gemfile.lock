@@ -32,6 +32,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
+    jekyll-redirect-from (0.13.0)
+      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.0.0)
@@ -69,6 +71,7 @@ DEPENDENCIES
   bourbon (~> 4.2.0)
   jekyll (~> 3.8.2)
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from
   neat (~> 1.7.0)
   tzinfo-data
 
