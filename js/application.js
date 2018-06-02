@@ -12,4 +12,11 @@ $(document).ready(function() {
   $("[data-behavior*=next]").jcarouselControl({
     target: "+=1",
   });
+  $("[data-behavior*=carousel]").
+    on("jcarousel:scroll", function(event, carousel, target, animate) {
+      var iframe = document.querySelector('iframe');
+      var player = new Vimeo.Player(iframe);
+
+      player.pause();
+  });
 });
