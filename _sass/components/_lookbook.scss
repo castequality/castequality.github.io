@@ -1,0 +1,51 @@
+.lookbook {
+  position: relative;
+  margin-bottom: 15px;
+
+  &:hover a {
+    opacity: 0.6;
+  }
+
+
+  iframe {
+    @include size($video-width $video-height);
+  }
+
+  nav a {
+    @include transition(all .1s ease-in);
+
+    position: absolute;
+    border: none;
+    height: 66px;
+    margin: -33px 0 0;
+    width: 33px;
+    top: 50%;
+    color: transparent;
+    opacity: 0;
+
+    background: {
+      image: url("/images/arrows.png");
+      repeat: no-repeat;
+      color: rgba(0,0,0,.7);
+      size: 65px auto;
+    }
+  }
+
+  nav a:hover {
+    opacity: 1.0;
+  }
+
+  .next {
+    text-align: right;
+    background-position: -38px 15px;
+    border-radius: 3px;
+    right: 18px;
+  }
+
+  .previous {
+    text-align: left;
+    background-position: 6px 15px;
+    border-radius: 3px;
+    left: 18px;
+  }
+}

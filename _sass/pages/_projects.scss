@@ -1,0 +1,28 @@
+.project {
+  position: relative;
+
+  iframe {
+    @include size($video-width $video-height);
+  }
+
+  img {
+    @include size($video-width $video-height);
+  }
+}
+
+.projects {
+  width: 100%;
+  text-align: center;
+  margin-top: $element-margin;
+  margin-bottom: $element-margin;
+  font-size: 11px;
+
+  li {
+    display: inline-block;
+    font-weight: bold;
+
+    &:not(:last-of-type)::after {
+      content: "/";
+    }
+  }
+}

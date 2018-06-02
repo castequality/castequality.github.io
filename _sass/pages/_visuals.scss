@@ -1,0 +1,15 @@
+.videos {
+  position: relative;
+  text-align: center;
+  font-variant: small-caps;
+
+  iframe {
+    @include size($video-width $video-height);
+  }
+}
+
+.visuals {
+  article {
+    width: 24%;
+  }
+}
