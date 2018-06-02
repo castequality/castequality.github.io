@@ -24,10 +24,13 @@ $(document).ready(function() {
     });
     $("[data-behavior*=carousel]").
       on("jcarousel:scroll", function(event, carousel, target, animate) {
-        var iframe = document.querySelector('iframe');
-        var player = new Vimeo.Player(iframe);
+        var iframes = document.querySelectorAll('iframe');
 
-        player.pause();
+        iframes.forEach(function(iframe) {
+          var player = new Vimeo.Player(iframe);
+
+          player.pause();
+        });
     });
   }
 });
