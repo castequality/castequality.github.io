@@ -4,7 +4,7 @@ layout: posts
 
 <section class="blog">
   <section class="posts">
-    {% for post in site.posts limit: 10 %}
+    {% for post in site.posts limit: 5 %}
     <article class="post">
       <a href="{{ post.url }}">
         <h1 class="name">
@@ -19,4 +19,6 @@ layout: posts
     </article>
     {% endfor %}
   </section>
+
+  <div class="infinite-spinner"></div>
 </section>

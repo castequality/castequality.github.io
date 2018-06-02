@@ -1,8 +1,17 @@
-$(document).ready(function() {
+$.ajaxSetup({
+  global: true,
+});
+
+function resizePostVideoPlayers() {
   $(".post iframe").
     attr("width", 775).
     attr("height", 432);
+}
 
+$(document).ready(resizePostVideoPlayers);
+$(document).ajaxComplete(resizePostVideoPlayers);
+
+$(document).ready(function() {
   if ($.fn.jcarousel) {
     $("[data-behavior*=carousel]").jcarousel({
       wrap: "circular",
