@@ -9,7 +9,9 @@
 
       <article class="post">
         <h1 class="name">
-          <time>{{ page.date | date_to_string }}</time>
+          {% if page.date %}
+            <time>{{ page.date | date_to_string }}</time>
+          {% endif %}
           {{ page.title }}
         </h1>
 
