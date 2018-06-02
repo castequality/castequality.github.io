@@ -1,6 +1,6 @@
 ---
 title: "CASTE x Hypebeast"
-date: 2014-02-25 23:56:00
+date: "2014-02-25 23:56:00"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Made in America: What Does It Really Mean?"
-date: 2013-08-25 17:44:47
+date: "2013-08-25 17:44:47"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Chances With Wolves : East Village Radio"
-date: 2013-07-01 22:48:30
+date: "2013-07-01 22:48:30"
 layout: post
 ---
 

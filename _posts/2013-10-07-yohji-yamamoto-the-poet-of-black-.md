@@ -1,6 +1,6 @@
 ---
 title: "Yohji Yamamoto: The Poet of Black"
-date: 2013-10-07 18:33:53
+date: "2013-10-07 18:33:53"
 layout: post
 ---
 

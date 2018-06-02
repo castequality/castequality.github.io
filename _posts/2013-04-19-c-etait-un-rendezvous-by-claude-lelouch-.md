@@ -1,6 +1,6 @@
 ---
 title: "C'ETAIT UN RENDEZVOUS BY CLAUDE LELOUCH"
-date: 2013-04-19 04:00:00
+date: "2013-04-19 04:00:00"
 layout: post
 ---
 

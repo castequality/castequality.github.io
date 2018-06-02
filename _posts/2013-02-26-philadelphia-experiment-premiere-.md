@@ -1,6 +1,6 @@
 ---
 title: "PHILADELPHIA EXPERIMENT PREMIERE"
-date: 2013-02-26 01:18:00
+date: "2013-02-26 01:18:00"
 layout: post
 ---
 

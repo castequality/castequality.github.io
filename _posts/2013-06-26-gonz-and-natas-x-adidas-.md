@@ -1,6 +1,6 @@
 ---
 title: "Gonz and Natas x Adidas"
-date: 2013-06-26 02:55:33
+date: "2013-06-26 02:55:33"
 layout: post
 ---
 

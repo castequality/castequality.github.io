@@ -1,6 +1,6 @@
 ---
 title: "A Decade of Photos from South Bank"
-date: 2013-08-13 13:14:24
+date: "2013-08-13 13:14:24"
 layout: post
 ---
 

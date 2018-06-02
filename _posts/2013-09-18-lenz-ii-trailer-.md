@@ -1,6 +1,6 @@
 ---
 title: "Lenz II Trailer"
-date: 2013-09-18 20:29:18
+date: "2013-09-18 20:29:18"
 layout: post
 ---
 

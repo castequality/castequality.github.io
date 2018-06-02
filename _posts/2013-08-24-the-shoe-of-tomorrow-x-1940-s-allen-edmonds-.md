@@ -1,6 +1,6 @@
 ---
 title: "The Shoe of Tomorrow X 1940's Allen Edmonds"
-date: 2013-08-24 12:56:00
+date: "2013-08-24 12:56:00"
 layout: post
 ---
 

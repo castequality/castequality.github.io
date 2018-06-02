@@ -1,6 +1,6 @@
 ---
 title: "CASTE Collection 03 Release Event"
-date: 2013-12-03 14:11:55
+date: "2013-12-03 14:11:55"
 layout: post
 ---
 

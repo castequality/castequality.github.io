@@ -1,6 +1,6 @@
 ---
 title: "SIXTO RODRIGUEZ - \"I'LL SLIP AWAY\""
-date: 2013-04-26 03:48:45
+date: "2013-04-26 03:48:45"
 layout: post
 ---
 

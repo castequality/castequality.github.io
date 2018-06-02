@@ -1,6 +1,6 @@
 ---
 title: "PARADIGM VOL. I – GENESIS x Zachary Armstrong Editorial by Zander Taketomo"
-date: 2014-06-03 14:30:00
+date: "2014-06-03 14:30:00"
 layout: post
 ---
 

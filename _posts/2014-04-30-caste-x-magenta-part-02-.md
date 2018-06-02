@@ -1,6 +1,6 @@
 ---
 title: "CASTE x Magenta Part 02"
-date: 2014-04-30 13:00:00
+date: "2014-04-30 13:00:00"
 layout: post
 ---
 

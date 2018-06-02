@@ -1,6 +1,6 @@
 ---
 title: "\"THE PHILADELPHIA EXPERIMENT\" OFFCUTS"
-date: 2013-06-04 23:53:46
+date: "2013-06-04 23:53:46"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Classic Clips #133 x Jimmy Mcdonald"
-date: 2013-08-22 17:47:49
+date: "2013-08-22 17:47:49"
 layout: post
 ---
 

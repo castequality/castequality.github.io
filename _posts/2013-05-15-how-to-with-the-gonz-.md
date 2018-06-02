@@ -1,6 +1,6 @@
 ---
 title: "How-to: with the Gonz"
-date: 2013-05-15 11:30:45
+date: "2013-05-15 11:30:45"
 layout: post
 ---
 

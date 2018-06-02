@@ -1,6 +1,6 @@
 ---
 title: "Luke Koch X Homebase610"
-date: 2013-08-01 18:43:39
+date: "2013-08-01 18:43:39"
 layout: post
 ---
 

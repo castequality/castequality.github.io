@@ -1,6 +1,6 @@
 ---
 title: "Brotherly Love"
-date: 2013-07-26 23:58:43
+date: "2013-07-26 23:58:43"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Kingpin x CASTE"
-date: 2014-06-12 15:35:00
+date: "2014-06-12 15:35:00"
 layout: post
 ---
 

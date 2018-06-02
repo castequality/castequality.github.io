@@ -1,6 +1,6 @@
 ---
 title: "SYNONYMOUS x 1 AM Gallery"
-date: 2013-08-05 15:19:36
+date: "2013-08-05 15:19:36"
 layout: post
 ---
 

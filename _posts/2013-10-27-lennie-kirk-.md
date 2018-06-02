@@ -1,6 +1,6 @@
 ---
 title: "Lennie Kirk"
-date: 2013-10-27 15:58:55
+date: "2013-10-27 15:58:55"
 layout: post
 ---
 

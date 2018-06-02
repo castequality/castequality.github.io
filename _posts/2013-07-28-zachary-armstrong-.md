@@ -1,6 +1,6 @@
 ---
 title: "Zachary Armstrong"
-date: 2013-07-28 20:37:26
+date: "2013-07-28 20:37:26"
 layout: post
 ---
 

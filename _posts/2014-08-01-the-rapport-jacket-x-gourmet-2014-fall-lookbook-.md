@@ -1,6 +1,6 @@
 ---
 title: "The Rapport Jacket x Gourmet 2014 Fall Lookbook"
-date: 2014-08-01 08:25:00
+date: "2014-08-01 08:25:00"
 layout: post
 ---
 

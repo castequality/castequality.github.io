@@ -1,6 +1,6 @@
 ---
 title: "INSTALLMENT 01"
-date: 2013-08-27 14:31:00
+date: "2013-08-27 14:31:00"
 layout: post
 ---
 

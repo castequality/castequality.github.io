@@ -1,6 +1,6 @@
 ---
 title: "CASTE x North Skateboard Magazine"
-date: 2014-01-27 23:56:00
+date: "2014-01-27 23:56:00"
 layout: post
 ---
 

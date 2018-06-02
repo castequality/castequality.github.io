@@ -1,6 +1,6 @@
 ---
 title: "STORE SPECIAL!"
-date: 2013-03-27 17:16:00
+date: "2013-03-27 17:16:00"
 layout: post
 ---
 

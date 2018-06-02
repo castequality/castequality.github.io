@@ -1,6 +1,6 @@
 ---
 title: "CHRONIC WASTAGE"
-date: 2013-04-27 18:45:00
+date: "2013-04-27 18:45:00"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Back in Black"
-date: 2013-07-18 17:23:06
+date: "2013-07-18 17:23:06"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "JENKEM - IS THE INTERNET REALLY RUINING HOW WE APPRECIATE SKATE VIDEOS?"
-date: 2013-04-30 18:24:00
+date: "2013-04-30 18:24:00"
 layout: post
 ---
 

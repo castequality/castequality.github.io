@@ -1,6 +1,6 @@
 ---
 title: "The Waylon Tee"
-date: 2013-07-24 16:29:09
+date: "2013-07-24 16:29:09"
 layout: post
 ---
 

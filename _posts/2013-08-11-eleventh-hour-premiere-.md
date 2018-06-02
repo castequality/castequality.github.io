@@ -1,6 +1,6 @@
 ---
 title: "ELEVENTH HOUR PREMIERE"
-date: 2013-08-11 14:02:00
+date: "2013-08-11 14:02:00"
 layout: post
 ---
 

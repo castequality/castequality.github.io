@@ -1,6 +1,6 @@
 ---
 title: "The Story of Pan Am"
-date: 2013-07-22 02:32:26
+date: "2013-07-22 02:32:26"
 layout: post
 ---
 

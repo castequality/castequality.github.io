@@ -1,6 +1,6 @@
 ---
 title: "Paradigm Magazine  X Alex Olson"
-date: 2013-08-25 18:13:06
+date: "2013-08-25 18:13:06"
 layout: post
 ---
 

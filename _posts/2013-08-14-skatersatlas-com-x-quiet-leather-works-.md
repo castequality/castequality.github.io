@@ -1,6 +1,6 @@
 ---
 title: "SKATERSATLAS.com x Quiet. Leather Works"
-date: 2013-08-14 14:43:30
+date: "2013-08-14 14:43:30"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Soleil Levant "
-date: 2013-07-09 11:38:46
+date: "2013-07-09 11:38:46"
 layout: post
 ---
 

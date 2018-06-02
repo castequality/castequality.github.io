@@ -1,6 +1,6 @@
 ---
 title: "CASTE x Magenta Installment 04 : San Francisco"
-date: 2014-01-22 10:39:00
+date: "2014-01-22 10:39:00"
 layout: post
 ---
 

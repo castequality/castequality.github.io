@@ -1,6 +1,6 @@
 ---
 title: "THE PHILADELPHIA EXPERIMENT / THEORIES"
-date: 2013-03-05 00:01:00
+date: "2013-03-05 00:01:00"
 layout: post
 ---
 

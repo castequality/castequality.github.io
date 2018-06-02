@@ -1,6 +1,6 @@
 ---
 title: "Zander Taketomo x North Magazine Issue 04"
-date: 2014-04-15 08:56:00
+date: "2014-04-15 08:56:00"
 layout: post
 ---
 

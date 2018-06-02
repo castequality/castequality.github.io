@@ -1,6 +1,6 @@
 ---
 title: "Jun Takahashi "
-date: 2013-08-19 02:54:26
+date: "2013-08-19 02:54:26"
 layout: post
 ---
 

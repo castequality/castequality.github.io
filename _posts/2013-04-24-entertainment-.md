@@ -1,6 +1,6 @@
 ---
 title: "ENTERTAINMENT"
-date: 2013-04-24 01:22:02
+date: "2013-04-24 01:22:02"
 layout: post
 ---
 

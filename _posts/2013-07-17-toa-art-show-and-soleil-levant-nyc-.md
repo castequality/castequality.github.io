@@ -1,6 +1,6 @@
 ---
 title: "TOA Art Show and Soleil Levant : NYC"
-date: 2013-07-17 13:07:18
+date: "2013-07-17 13:07:18"
 layout: post
 ---
 

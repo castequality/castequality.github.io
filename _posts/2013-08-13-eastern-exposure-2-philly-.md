@@ -1,6 +1,6 @@
 ---
 title: "EASTERN EXPOSURE 2 - PHILLY"
-date: 2013-08-13 05:41:00
+date: "2013-08-13 05:41:00"
 layout: post
 ---
 

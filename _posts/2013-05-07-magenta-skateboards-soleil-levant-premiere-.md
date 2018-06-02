@@ -1,6 +1,6 @@
 ---
 title: "MAGENTA SKATEBOARDS: SOLEIL LEVANT PREMIERE"
-date: 2013-05-07 21:57:00
+date: "2013-05-07 21:57:00"
 layout: post
 ---
 

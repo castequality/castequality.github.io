@@ -1,6 +1,6 @@
 ---
 title: "Manuel Schenck Photography"
-date: 2013-07-01 02:20:42
+date: "2013-07-01 02:20:42"
 layout: post
 ---
 

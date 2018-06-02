@@ -1,6 +1,6 @@
 ---
 title: "ADIDAS SKATEBOARDING: MARK SUCIU"
-date: 2013-03-15 05:55:00
+date: "2013-03-15 05:55:00"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "CASTE x Live Skateboard Media"
-date: 2013-06-02 15:47:00
+date: "2013-06-02 15:47:00"
 layout: post
 ---
 

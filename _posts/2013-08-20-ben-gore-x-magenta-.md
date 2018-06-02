@@ -1,6 +1,6 @@
 ---
 title: "Ben Gore x Magenta"
-date: 2013-08-20 17:20:17
+date: "2013-08-20 17:20:17"
 layout: post
 ---
 

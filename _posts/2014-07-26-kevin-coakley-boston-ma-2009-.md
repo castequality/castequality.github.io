@@ -1,6 +1,6 @@
 ---
 title: "Kevin Coakley | Boston, MA | 2009"
-date: 2014-07-26 13:00:00
+date: "2014-07-26 13:00:00"
 layout: post
 ---
 

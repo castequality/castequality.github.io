@@ -1,6 +1,6 @@
 ---
 title: "MAGENTA x CASTE outtakes 2 of 2"
-date: 2013-11-06 20:31:00
+date: "2013-11-06 20:31:00"
 layout: post
 ---
 

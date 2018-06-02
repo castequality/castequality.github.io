@@ -1,6 +1,6 @@
 ---
 title: "NEW PRODUCT DROP..."
-date: 2013-05-08 02:39:00
+date: "2013-05-08 02:39:00"
 layout: post
 ---
 

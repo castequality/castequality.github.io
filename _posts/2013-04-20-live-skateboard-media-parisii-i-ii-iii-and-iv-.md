@@ -1,6 +1,6 @@
 ---
 title: "LIVE SKATEBOARD MEDIA: PARISII I, II, III, AND IV"
-date: 2013-04-20 23:35:00
+date: "2013-04-20 23:35:00"
 layout: post
 ---
 

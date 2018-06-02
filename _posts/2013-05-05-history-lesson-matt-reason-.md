@@ -1,6 +1,6 @@
 ---
 title: "HISTORY LESSON: MATT REASON"
-date: 2013-05-05 07:47:14
+date: "2013-05-05 07:47:14"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "LA BLOGOTHEQUE - KURT VILE"
-date: 2013-05-02 05:33:04
+date: "2013-05-02 05:33:04"
 layout: post
 ---
 

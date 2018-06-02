@@ -1,6 +1,6 @@
 ---
 title: "I am Oak - On Oxen"
-date: 2013-07-05 02:41:46
+date: "2013-07-05 02:41:46"
 layout: post
 ---
 

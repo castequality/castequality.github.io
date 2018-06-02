@@ -1,6 +1,6 @@
 ---
 title: "CASTE x Zachary Armstrong x Paradigm Magazine and The Elder Woven"
-date: 2014-02-21 23:56:00
+date: "2014-02-21 23:56:00"
 layout: post
 ---
 

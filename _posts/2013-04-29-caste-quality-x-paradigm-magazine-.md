@@ -1,6 +1,6 @@
 ---
 title: "CASTE QUALITY x PARADIGM MAGAZINE"
-date: 2013-04-29 14:58:00
+date: "2013-04-29 14:58:00"
 layout: post
 ---
 

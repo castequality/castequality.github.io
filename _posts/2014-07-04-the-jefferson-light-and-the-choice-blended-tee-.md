@@ -1,6 +1,6 @@
 ---
 title: "The Jefferson Light and The Choice Blended Tee"
-date: 2014-07-04 12:56:00
+date: "2014-07-04 12:56:00"
 layout: post
 ---
 

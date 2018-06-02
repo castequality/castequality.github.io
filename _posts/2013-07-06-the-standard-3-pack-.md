@@ -1,6 +1,6 @@
 ---
 title: "The Standard 3 Pack"
-date: 2013-07-06 18:00:15
+date: "2013-07-06 18:00:15"
 layout: post
 ---
 

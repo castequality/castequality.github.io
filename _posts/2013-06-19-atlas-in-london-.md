@@ -1,6 +1,6 @@
 ---
 title: "ATLAS in London"
-date: 2013-06-19 00:59:48
+date: "2013-06-19 00:59:48"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Parlour Skate Store"
-date: 2013-05-17 13:48:00
+date: "2013-05-17 13:48:00"
 layout: post
 ---
 

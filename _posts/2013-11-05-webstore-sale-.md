@@ -1,6 +1,6 @@
 ---
 title: "Webstore SALE"
-date: 2013-11-05 12:16:00
+date: "2013-11-05 12:16:00"
 layout: post
 ---
 

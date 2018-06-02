@@ -1,6 +1,6 @@
 ---
 title: "Trocadero Days"
-date: 2013-09-08 15:29:38
+date: "2013-09-08 15:29:38"
 layout: post
 ---
 

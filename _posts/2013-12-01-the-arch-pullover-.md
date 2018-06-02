@@ -1,6 +1,6 @@
 ---
 title: "The Arch Pullover"
-date: 2013-12-01 02:16:52
+date: "2013-12-01 02:16:52"
 layout: post
 ---
 

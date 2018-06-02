@@ -1,6 +1,6 @@
 ---
 title: "Stanley Kubrick's Photography in NYC"
-date: 2013-08-27 02:42:23
+date: "2013-08-27 02:42:23"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Long Live Southbank : The Bigger Picture"
-date: 2013-11-10 20:43:19
+date: "2013-11-10 20:43:19"
 layout: post
 ---
 

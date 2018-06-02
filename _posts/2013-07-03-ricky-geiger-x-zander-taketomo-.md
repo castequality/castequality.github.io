@@ -1,6 +1,6 @@
 ---
 title: "Ricky Geiger x Zander Taketomo"
-date: 2013-07-03 20:23:52
+date: "2013-07-03 20:23:52"
 layout: post
 ---
 

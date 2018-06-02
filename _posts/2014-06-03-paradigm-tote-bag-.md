@@ -1,6 +1,6 @@
 ---
 title: "Paradigm Tote Bag"
-date: 2014-06-03 15:03:00
+date: "2014-06-03 15:03:00"
 layout: post
 ---
 

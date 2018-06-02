@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Deberdt, Paris 2013"
-date: 2013-05-11 05:27:01
+date: "2013-05-11 05:27:01"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "HYPEBEAST x CASTE"
-date: 2013-09-10 15:58:16
+date: "2013-09-10 15:58:16"
 layout: post
 ---
 

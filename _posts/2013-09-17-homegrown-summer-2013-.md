@@ -1,6 +1,6 @@
 ---
 title: "HOMEGROWN SUMMER 2013"
-date: 2013-09-17 16:50:00
+date: "2013-09-17 16:50:00"
 layout: post
 ---
 

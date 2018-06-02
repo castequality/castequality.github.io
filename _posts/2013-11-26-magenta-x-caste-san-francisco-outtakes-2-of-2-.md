@@ -1,6 +1,6 @@
 ---
 title: "Magenta x CASTE San Francisco outtakes 2 of 2"
-date: 2013-11-26 14:15:53
+date: "2013-11-26 14:15:53"
 layout: post
 ---
 

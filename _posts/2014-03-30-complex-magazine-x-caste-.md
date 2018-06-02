@@ -1,6 +1,6 @@
 ---
 title: "Complex Magazine x CASTE"
-date: 2014-03-30 12:45:00
+date: "2014-03-30 12:45:00"
 layout: post
 ---
 

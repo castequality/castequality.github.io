@@ -1,6 +1,6 @@
 ---
 title: "Jenkem Mag x Marc Johnson"
-date: 2013-07-30 03:07:42
+date: "2013-07-30 03:07:42"
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ming Kong's Revenge"
-date: 2013-07-30 03:34:22
+date: "2013-07-30 03:34:22"
 layout: post
 ---
 

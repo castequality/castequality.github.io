@@ -1,6 +1,6 @@
 ---
 title: "LEO VALLS KINGPIN INTERVIEW"
-date: 2013-04-29 03:58:00
+date: "2013-04-29 03:58:00"
 layout: post
 ---
 

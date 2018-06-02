@@ -1,6 +1,6 @@
 ---
 title: "The Rapport Jacket in San Francisco"
-date: 2014-04-25 12:26:00
+date: "2014-04-25 12:26:00"
 layout: post
 ---
 
