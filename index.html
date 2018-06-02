@@ -5,18 +5,9 @@ layout: posts
 <section class="blog">
   <section class="posts">
     {% for post in site.posts limit: 5 %}
-    <article class="post">
-      <a href="{{ post.url }}">
-        <h1 class="name">
-          {{ post.title }}
-          <time>{{ post.date | date_to_string }}</time>
-        </h1>
-      </a>
 
-      <p class="body">
-      {{ post.content }}
-      </p>
-    </article>
+    {% include post.html post=post %}
+
     {% endfor %}
   </section>
 

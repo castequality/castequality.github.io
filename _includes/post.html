@@ -1,0 +1,12 @@
+<article class="post">
+  <a href="{{ include.post.url }}">
+    <h1 class="name">
+      <time>{{ include.post.date | date_to_string }}</time>
+      {{ include.post.title }}
+    </h1>
+
+    <p class="body">
+    {{ include.post.content }}
+    </p>
+  </a>
+</article>
