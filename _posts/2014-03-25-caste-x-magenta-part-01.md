@@ -10,5 +10,4 @@ layout: post
 
 <p>In conjunction with this collaborative video piece, we&#39;ve released a special jacket and hat, while Magenta created a board for their summer line (including a DVD of the collaborative film series).</p>
 
-<p>Check our online store to <a href="http://store.castequality.com">SHOP</a> the collaboration pieces.</p>
-
+<p>Check our online store to <a href="https://store.castequality.com">SHOP</a> the collaboration pieces.</p>
